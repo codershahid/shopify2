@@ -1,0 +1,1 @@
+## Minimalistic Shopify 2.0
